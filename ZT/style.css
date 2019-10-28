@@ -6,8 +6,9 @@
 	top: 220px;
     left: 70px;
 	background-color:rgb(0,0,0);
+  transition:all 1s;
 }
-.r2{
+.r3{
 width: 120px;
   height: 120px;
   position: absolute;
@@ -16,7 +17,7 @@ width: 120px;
   background-color: rgb(0, 0, 0);
   border-radius: 50%;
 }
-.r3 {
+.r2 {
   width: 26px;
   height: 95px;
   position: absolute;
@@ -24,6 +25,7 @@ width: 120px;
   left: 130px;
   background-color: rgb(0,0,0);
   transform: rotate(330deg);
+  transition:all 1s;
 }
 .r4 {
   width: 26px;
@@ -82,7 +84,7 @@ width: 180px;
   transform: rotate(90deg);
 }
 
-.n1 {
+.n2 {
   width: 130px;
   height: 130px;
   position: absolute;
@@ -93,7 +95,7 @@ width: 180px;
   
 
 }
-.n2 {
+.n3 {
   width: 70px;
   height: 130px;
   position: absolute;
@@ -103,7 +105,7 @@ width: 180px;
    
 }
 
-.n3 {
+.n1 {
   width: 16px;
   height: 175px;
   position: absolute;
@@ -111,6 +113,7 @@ width: 180px;
   left: 638px;
   background-color: rgb(0,0,0);
   transform: rotate(315deg);
+  transition:all 1s;
 }
 
 .n4 {
@@ -190,7 +193,7 @@ p {
 }
 
 h1 {
-  font-family: futura;
+  font-family:futura;
   font-size: 45px;
   letter-spacing: 1px;
   position: absolute;
@@ -206,6 +209,7 @@ h1 {
   left: 1220px;
   background-color: rgb(0,0,0);
   transform: rotate(90deg);
+  transition:all 1s;
 }
 
 .e2 {
@@ -216,6 +220,7 @@ h1 {
   left: 1221px;
   background-color: rgb(0,0,0);
   transform: rotate(90deg);
+  transition:all 1s;
 }
 
 .e3 {
@@ -236,6 +241,7 @@ h1 {
   left: 1220px;
   background-color: rgb(0,0,0);
   transform: rotate(90deg);
+  transition:all 1s;
 }
 
 .text{
@@ -247,13 +253,29 @@ h1 {
   left: 10px;
 }
 
+.rbox:hover .r1{
+  background-color:rgb(255,255,255);
+}
 
+.rbox:hover .r2{
+  background-color:rgb(255,255,255);
+}
 
+.nbox:hover .n1{
+  background-color:rgb(255,255,255);
+}
 
+.ebox:hover .e1{
+  background-color:rgb(255,255,255);
+}
 
+.ebox:hover .e2{
+  background-color:rgb(255,255,255);
+}
 
-
-
+.ebox:hover .e4{
+  background-color:rgb(255,255,255);
+}
 
 
 

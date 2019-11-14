@@ -1,0 +1,110 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("HB.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  width: 1024px;
+  height: 700px;
+  
+}
+
+.Bowery{
+  position: absolute;
+  top: 20px;
+  left:335px;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 50px;
+  letter-spacing: 1px;
+}
+.sents{
+  position: absolute;
+  top: 20px;
+  left:620px;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 50px;
+  letter-spacing: 1px;
+  color: rgb(255,255,255);
+}
+.Jam{
+  position: absolute;
+  top: 110px;
+  left:510px;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 50px;
+  letter-spacing: 1px;
+}
+.es{
+  position: absolute;
+  top: 110px;
+  left:610px;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 50px;
+  letter-spacing: 1px;
+  color: rgb(255,255,255);
+}
+.Solo{
+  position: absolute;
+  top: 200px;
+  left:335px;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 50px;
+  letter-spacing: 1px;
+}
+.Show{
+  position: absolute;
+  top:200px;
+  left:570px;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 50px;
+  letter-spacing: 1px;
+  color: rgb(255,255,255);
+}
+.p{
+   position: absolute;
+  top:650px;
+  left:570px;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: rgb(255,255,255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

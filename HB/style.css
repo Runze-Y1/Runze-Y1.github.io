@@ -22,66 +22,10 @@
   
 }
 
-.Bowery{
-  position: absolute;
-  top: 20px;
-  left:335px;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 50px;
-  letter-spacing: 1px;
-}
-.sents{
-  position: absolute;
-  top: 20px;
-  left:620px;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 50px;
-  letter-spacing: 1px;
-  color: rgb(255,255,255);
-}
-.Jam{
-  position: absolute;
-  top: 110px;
-  left:510px;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 50px;
-  letter-spacing: 1px;
-}
-.es{
-  position: absolute;
-  top: 110px;
-  left:610px;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 50px;
-  letter-spacing: 1px;
-  color: rgb(255,255,255);
-}
-.Solo{
-  position: absolute;
-  top: 200px;
-  left:335px;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 50px;
-  letter-spacing: 1px;
-}
-.Show{
-  position: absolute;
-  top:200px;
-  left:570px;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 50px;
-  letter-spacing: 1px;
-  color: rgb(255,255,255);
-}
+
 .p{
    position: absolute;
-  top:650px;
+  top:610px;
   left:570px;
   width: 100%;
   font-family: Helvetica;
@@ -90,7 +34,20 @@
   color: rgb(255,255,255);
 }
 
-
+@media(max-width: 1024px){
+  
+.background {
+ 
+  background-image: url("shb.png");
+  
+  
+}
+.p{
+  top:595px;
+  left:120px;
+  font-size: 15px;
+}
+}
 
 
 

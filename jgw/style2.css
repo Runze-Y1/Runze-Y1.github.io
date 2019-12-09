@@ -1,0 +1,175 @@
+body{
+ 	background-color: black;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+ }
+
+.p1{
+	 position:absolute;
+  font-family:futura;
+  font-size: 18px;
+  letter-spacing: 1px;
+  position: absolute;
+  top:100px;
+  left: 100px;
+  width: 360px;
+  height: 100px;
+  color: rgb(128,128,128);
+}
+
+
+.p2{
+	 position:absolute;
+  font-family:futura;
+  font-size: 18px;
+  letter-spacing: 1px;
+  position: absolute;
+  top:680px;
+  left: 100px;
+  width: 360px;
+  height: 100px;
+  color: rgb(128,128,128);
+}
+
+.q1 {
+  width: 5px;
+  height: 280px;
+  position: absolute;
+  top: 500px;
+  left: 238px;
+  background-color: rgb(128,128,128);
+  transform: rotate(90deg);
+}
+
+
+
+
+
+.t1{
+	position:absolute;
+	top: 85px;
+    left: 580px;
+    width: 500px;
+  height: 150px;
+	
+ }
+
+
+.t{
+  
+  position:absolute;
+  top: -150px;
+    left: 900px;
+    width: 1450px;
+  height: 1450px;
+  transform: rotate(340deg);
+
+
+}
+
+
+
+
+
+.p3{
+position: absolute;
+  top: 680px;
+  left: 585px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+}
+.p4{
+position: absolute;
+  top: 680px;
+  left: 690px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+}
+.p5{
+position: absolute;
+  top: 680px;
+  left: 800px;
+ color: rgb(128,128,128);
+ cursor: pointer;
+}
+.p6{
+position: absolute;
+  top: 680px;
+  left: 910px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+}
+.p7{
+  position: absolute;
+  top: 680px;
+  left: 1020px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+}
+
+.p33{
+  position: absolute;
+  top: 500px;
+  left: 570px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+}
+.p44{
+  position: absolute;
+  top: 500px;
+  left: 700px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+}
+.p55{
+  position: absolute;
+  top: 500px;
+  left: 805px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+}
+.p66{
+  position: absolute;
+  top: 500px;
+  left: 920px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+}
+.p77{
+  position: absolute;
+  top: 500px;
+  left: 960px;
+  width: 250px;
+  height: 30px;
+  color: rgb(0,0,0);
+}
+
+
+
+
+
+
+a{
+  cursor: default;
+}
+
+.show {
+  opacity: 1;
+}
+
+.white {
+  color: rgb(128,128,128);
+}
+
+
+
+
+
+
+
+

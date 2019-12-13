@@ -25,11 +25,11 @@
 
 .p{
    position: absolute;
-  top:610px;
-  left:570px;
-  width: 100%;
+  top:629px;
+  left:685px;
+  width: 150%;
   font-family: Helvetica;
-  font-size: 20px;
+  font-size: 15px;
   letter-spacing: 1px;
   color: rgb(255,255,255);
 }
@@ -43,9 +43,9 @@
   
 }
 .p{
-  top:595px;
-  left:120px;
-  font-size: 15px;
+  top:627px;
+  left:180px;
+  font-size: 12px;
 }
 }
 

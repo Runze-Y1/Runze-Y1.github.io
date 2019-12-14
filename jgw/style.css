@@ -1,4 +1,4 @@
-img{
+.t{
 	position:absolute;
 	top: -70px;
     left: -500px;
@@ -6,6 +6,18 @@ img{
   height: 1300px;
 	transform: rotate(340deg);
  }
+
+ .t1{
+  
+  position:absolute;
+  top: -60px;
+    left: 1230px;
+    width: 1300px;
+  height: 1300px;
+   transform: rotate(330deg);
+
+
+}
 
  body{
  	background-color: black;
@@ -15,30 +27,30 @@ img{
  }
 
 
- h1{
+ p{
   position:absolute;
  	font-family:futura;
-  font-size: 33px;
+  font-size: 12px;
   letter-spacing: 1px;
   
-  top:100px;
-  left: 770px;
-  width: 40px;
+  top:130px;
+  left: 680px;
+  width: 30px;
   height: 100px;
   
-  color: rgb(255,255,255);
+  color: rgb(128,128,128);
   cursor: pointer;
  }
 
 
-p2{
+.p2{
   position:absolute;
   font-family:futura;
   font-size: 36px;
   letter-spacing: 1px;
   position: absolute;
-  top:120px;
-  left: 825px;
+  top:70px;
+  left: 550px;
   width: 150px;
   height: 100px;
   color: rgb(128,128,128);
@@ -53,43 +65,47 @@ a{
 }
 
 
-p1{
+.p1{
   position:absolute;
   font-family: futura;
   font-size: 20px;
   line-height: 25px;
   font-weight: medium;
+  position: absolute;
 top:350px;
-  left: 1250px;
+  left: 805px;
   color: rgb(128,128,128);
   width: 200px;
   height: 20px;
-
+ 
 }
 
 
-p3{
+.p3{
   position:absolute;
   font-family: futura;
   font-size: 20px;
   line-height: 25px;
   font-weight: medium;
-top:550px;
-  left: 1150px;
+  position: absolute;
+top:595px;
+  left: 895px;
   color: rgb(128,128,128);
   width: 200px;
   height: 200px;
+
 }
 
-p4{
+.p4{
   position:absolute;
   font-family: futura;
-  font-size: 20px;
+  font-size: 12px;
   line-height: 25px;
   font-weight: medium;
-top:575px;
-  left: 1203px;
-  color: rgb(255,255,255);
+  
+top:908px;
+  left: 1225px;
+  color: rgb(128,128,128);
   width: 200px;
   height: 200px;
   cursor: pointer;

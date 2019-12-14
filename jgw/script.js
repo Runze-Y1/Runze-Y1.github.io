@@ -66,6 +66,74 @@ $(document).ready(function() {
   });
 });
 
+$(document).ready(function() {
+  $(".p8").mouseenter(function() {
+    $(".p8").addClass("white");
+    $(".p88").addClass("show white");
+  });
+
+  $(".p8").mouseleave(function() {
+    $(".p8").removeClass("white");
+    $(".p88").removeClass("show white");
+  });
+});
+
+
+
+$(document).ready(function() {
+  $(".p9").mouseenter(function() {
+    $(".p9").addClass("white");
+    $(".p99").addClass("show white");
+  });
+
+  $(".p9").mouseleave(function() {
+    $(".p9").removeClass("white");
+    $(".p99").removeClass("show white");
+  });
+});
+
+
+$(document).ready(function() {
+  $(".p10").mouseenter(function() {
+    $(".p10").addClass("white");
+    $(".p1010").addClass("show white");
+  });
+
+  $(".p10").mouseleave(function() {
+    $(".p10").removeClass("white");
+    $(".p1010").removeClass("show white");
+  });
+});
+
+
+
+$(document).ready(function() {
+  $(".p11").mouseenter(function() {
+    $(".p11").addClass("white");
+    $(".p1111").addClass("show white");
+  });
+
+  $(".p11").mouseleave(function() {
+    $(".p11").removeClass("white");
+    $(".p1111").removeClass("show white");
+  });
+});
+
+
+
+
+$(document).ready(function() {
+  $(".p12").mouseenter(function() {
+    $(".p12").addClass("white");
+    $(".p1212").addClass("show white");
+  });
+
+  $(".p12").mouseleave(function() {
+    $(".p12").removeClass("white");
+    $(".p1212").removeClass("show white");
+  });
+});
+
 
 
 

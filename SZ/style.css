@@ -1,0 +1,15 @@
+p {
+  width: 450px;
+  color: rgb(0,0,0);
+  font-family: Georgia;
+  font-size: 14px;
+  line-height: 25px;
+  font-weight: bold;
+  
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 61px;
+  letter-spacing: 1px;
+}

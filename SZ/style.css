@@ -1,15 +1,23 @@
+body{
+	max-width:500px;
+	margin-left:auto;
+	margin-right:auto;
+  background-color:black;
+}
+
 p {
-  width: 450px;
-  color: rgb(0,0,0);
-  font-family: Georgia;
-  font-size: 14px;
+  width: 375px;
+  color: rgb(169,169,169);
+  font-family: 'Cambay', sans-serif;
+  font-size: 12px;
   line-height: 25px;
   font-weight: bold;
   
 }
 
 h1 {
-  font-family: Helvetica;
-  font-size: 61px;
+  color: rgb(169,169,169);
+  font-family: 'Cambay', sans-serif;
+  font-size: 24px;
   letter-spacing: 1px;
 }

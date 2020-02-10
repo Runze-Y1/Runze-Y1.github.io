@@ -1,7 +1,20 @@
+
+.background {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 110vh;
+  background-image: url("szq.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+}
+
+
 body{
-	max-width:500px;
-	margin-left:auto;
-	margin-right:auto;
+  
   background-color:black;
 }
 
@@ -21,3 +34,16 @@ h1 {
   font-size: 24px;
   letter-spacing: 1px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+

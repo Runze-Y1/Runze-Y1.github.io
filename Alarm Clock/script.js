@@ -2,5 +2,10 @@ $(document).ready(function(){
   
   setTimeout(function() {
     $(".background").addClass("alarm");
-  }, 3000);
+    $(".button").addClass("alarm");
+    $(".hour").addClass("alarm");
+    $(".minute").addClass("alarm");
+    $(".second").addClass("alarm");
+    
+  }, 6000);
 });

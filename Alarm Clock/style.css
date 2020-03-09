@@ -3,7 +3,7 @@
   top: 0;
   left: 0;
   width: 1660px;
-  height: 900px;
+  height: 1000px;
   background-image: url("b.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,8 +26,8 @@ body{
 
 .hour{
 	position:absolute;
-top: 10px;
-  left: 80px;
+top: 150px;
+  left: 600px;
   width: 10px;
   height: 10px;
 animation-name: animationA;
@@ -36,23 +36,31 @@ animation-name: animationA;
   animation-iteration-count: infinite; 
 }
 
+.hour.alarm{
+  display: none;
+}
+
 .minute{
   position:absolute;
-top: 10px;
-  left: 95px;
+top: 150px;
+  left: 800px;
   width: 10px;
   height: 10px;
 animation-name: animationA;
   animation-duration: 60s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
+
 }
 
+.minute.alarm{
+  display: none;
+}
 
 .second{
   position:absolute;
-top: 10px;
-  left: 70px;
+top: 150px;
+  left: 1000px;
   width: 10px;
   height: 10px;
 animation-name: animationA;
@@ -60,16 +68,35 @@ animation-name: animationA;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
+.second.alarm{
+  display: none;
+}
+.button {
+  position: absolute;
+  top: 250px;
+  left: -700px;
+  
+  
+  color: rgb(169,169,169);
+  font-family: 'Trade Winds', sans-serif;
+  font-size: 150px;
+  
+  font-weight: bold;
+   
+  transition: all 1s ease-in-out;
+}
 
-
+.button.alarm {
+  left: 563px;
+}
 
 @keyframes animationA {
   0% {
-     top: 10px;
+     top: 150px;
     
   }
   100% {
-    top:60px;
+    top:600px;
   }
 }
 

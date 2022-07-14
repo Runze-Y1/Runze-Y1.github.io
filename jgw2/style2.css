@@ -1,0 +1,283 @@
+body{
+ 	background-color: black;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+ }
+
+.p1{
+	 position:absolute;
+  font-family:futura;
+  font-size: 18px;
+  letter-spacing: 1px;
+  position: absolute;
+  top:100px;
+  left: 100px;
+  width: 360px;
+  height: 200px;
+  color: rgb(128,128,128);
+}
+
+
+
+.p2{
+	 position:absolute;
+  font-family:futura;
+  font-size: 18px;
+  letter-spacing: 1px;
+  position: absolute;
+  top:680px;
+  left: 100px;
+  width: 360px;
+  height: 100px;
+  color: rgb(128,128,128);
+}
+
+.q1 {
+  width: 5px;
+  height: 280px;
+  position: absolute;
+  top: 500px;
+  left: 238px;
+  background-color: rgb(128,128,128);
+  transform: rotate(90deg);
+}
+
+
+
+
+
+.t1{
+	position:absolute;
+	top: 85px;
+    left: 580px;
+    width: 500px;
+  height: 150px;
+	
+ }
+ .t2{
+  position:absolute;
+  top: 520px;
+    left: 590px;
+    width: 500px;
+  height: 150px;
+  
+ }
+
+
+.t{
+  
+  position:absolute;
+  top: -150px;
+    left: 900px;
+    width: 1450px;
+  height: 1450px;
+  transform: rotate(340deg);
+
+
+}
+
+
+
+
+
+.p3{
+position: absolute;
+  top: 310px;
+  left: 585px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+.p4{
+position: absolute;
+  top: 310px;
+  left: 690px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+.p5{
+position: absolute;
+  top: 310px;
+  left: 800px;
+ color: rgb(128,128,128);
+ cursor: pointer;
+ font-family:futura;
+}
+.p6{
+position: absolute;
+  top: 310px;
+  left: 910px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+.p7{
+  position: absolute;
+  top: 310px;
+  left: 1020px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+
+.p8{
+position: absolute;
+  top: 765px;
+  left: 585px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+.p9{
+position: absolute;
+  top: 765px;
+  left: 690px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+.p10{
+position: absolute;
+  top: 765px;
+  left: 800px;
+ color: rgb(128,128,128);
+ cursor: pointer;
+ font-family:futura;
+}
+.p11{
+position: absolute;
+  top: 765px;
+  left: 910px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+.p12{
+  position: absolute;
+  top: 765px;
+  left: 1020px;
+  color: rgb(128,128,128);
+  cursor: pointer;
+  font-family:futura;
+}
+
+
+
+.p33{
+  position: absolute;
+  top: 260px;
+  left: 570px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p44{
+  position: absolute;
+  top: 260px;
+  left: 700px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p55{
+  position: absolute;
+  top: 260px;
+  left: 805px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p66{
+  position: absolute;
+  top: 260px;
+  left: 920px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p77{
+  position: absolute;
+  top: 260px;
+  left: 960px;
+  width: 250px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+
+.p88{
+  position: absolute;
+  top: 715px;
+  left: 525px;
+  width: 180px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p99{
+  position: absolute;
+  top: 715px;
+  left: 700px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p1010{
+  position: absolute;
+  top: 715px;
+  left: 805px;
+  width: 50px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p1111{
+  position: absolute;
+  top: 715px;
+  left: 906px;
+  width: 80px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+.p1212{
+  position: absolute;
+  top: 715px;
+  left: 1013px;
+  width: 250px;
+  height: 30px;
+  color: rgb(0,0,0);
+  font-family:futura;
+}
+
+
+
+
+
+
+a{
+  cursor: default;
+}
+
+.show {
+  opacity: 1;
+}
+
+.white {
+  color: rgb(128,128,128);
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,128 @@
+.t{
+	position:absolute;
+	top: -80px;
+    left: -500px;
+    width: 1300px;
+  height: 1300px;
+	transform: rotate(340deg);
+ }
+
+ .t1{
+  
+  position:absolute;
+  top: -60px;
+    left: 1220px;
+    width: 1300px;
+  height: 1300px;
+   transform: rotate(330deg);
+
+
+}
+
+ body{
+ 	background-color: black;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+ }
+
+
+ p{
+  position:absolute;
+ 	font-family:futura;
+  font-size: 40px;
+  letter-spacing: 1px;
+  
+  top:130px;
+  left: 750px;
+  width: 500px;
+  height: 100px;
+  
+  color: rgb(255,255,255);
+  cursor: pointer;
+ }
+
+
+.p2{
+  position:absolute;
+  font-family:futura;
+  font-size: 41px;
+  letter-spacing: 2px;
+  position: absolute;
+  top:200px;
+  left: 876px;
+  width: 450px;
+  height: 100px;
+  color: rgb(128,128,128);
+  
+ }
+
+
+
+
+a{
+  cursor: default;
+}
+
+
+.p1{
+  position:absolute;
+  font-family: futura;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: medium;
+  position: absolute;
+top:400px;
+  left: 880px;
+  color: rgb(128,128,128);
+  width: 240px;
+  height: 20px;
+ 
+}
+
+
+.p3{
+  position:absolute;
+  font-family: futura;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: medium;
+  position: absolute;
+top:595px;
+  left: 895px;
+  color: rgb(128,128,128);
+  width: 200px;
+  height: 200px;
+
+}
+
+.p4{
+  position:absolute;
+  font-family: futura;
+  font-size: 120px;
+  line-height: 25px;
+  font-weight: medium;
+  
+top:445px;
+  left: 1480px;
+  color: rgb(255,255,255);
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
